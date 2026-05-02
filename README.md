@@ -68,9 +68,9 @@
 ---
 
 ## 🤝 Let's Connect
-
 [![Email](https://img.shields.io/badge/Email-ibenrahhal133%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ibenrahhal133@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-benrisma133-181717?style=flat&logo=github&logoColor=white)](https://github.com/benrisma133)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismail_Benrahhal-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-benrahhal)
 
 ---
 
