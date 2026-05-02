@@ -42,6 +42,17 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benrisma133&theme=tokyonight" width="90%" />
+</p>
+-----------------------------------
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benrisma133&theme=tokyonight" width="44%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benrisma133&theme=tokyonight" width="44%" />
+</p>
+
+-----------------------------------
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=benrisma133&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
