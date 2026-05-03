@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=benrisma133&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=benrisma133&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
