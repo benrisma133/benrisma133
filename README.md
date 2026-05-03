@@ -8,6 +8,7 @@
 
 ## 🧑‍💻 About Me
 
+
 - 🔭 Currently working on **freelance client projects**
 - 🌱 Growing my skills in **ASP.NET Core** & the modern .NET ecosystem
 - 💬 Ask me about **C#, .NET Core, WPF, WinForms, POS systems, REST APIs**
