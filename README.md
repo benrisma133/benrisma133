@@ -4,6 +4,10 @@
 
 > Full-Stack .NET Developer · Building clean, scalable business software · Kenitra, Morocco 🇲🇦
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+.NET;C%23+Developer;Problem+Solver&center=true&width=500&height=45">
+</p>
+
 <div align="center" width="100%">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 </div>
