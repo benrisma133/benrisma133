@@ -23,33 +23,45 @@
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 About Me
 
+* 🔭 Currently working on **freelance client projects**
+* 🌱 Growing my skills in **ASP.NET Core** & the modern .NET ecosystem
+* 💬 Ask me about **C#, .NET Core, WPF, WinForms, POS systems, REST APIs**
+* 📫 Reach me at: **[ibenrahhal133@gmail.com](mailto:ibenrahhal133@gmail.com)**
+* 📍 Based in **Kenitra, Morocco**
 
-- 🔭 Currently working on **freelance client projects**
-- 🌱 Growing my skills in **ASP.NET Core** & the modern .NET ecosystem
-- 💬 Ask me about **C#, .NET Core, WPF, WinForms, POS systems, REST APIs**
-- 📫 Reach me at: **ibenrahhal133@gmail.com**
-- 📍 Based in **Kenitra, Morocco**
+</div>
+
 
 ---
 
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+## 🛠️ Tech Stack
+
 ### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0E6EFD?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-0E6EFD?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
 
 ### Database & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+
+</div>
 
 ---
 
