@@ -67,8 +67,6 @@
 <p align="center">
   
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=benrisma133&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  </br>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=benrisma133&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
