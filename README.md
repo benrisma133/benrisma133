@@ -38,9 +38,6 @@
 
 ---
 
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ## 🛠️ Tech Stack
