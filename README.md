@@ -65,7 +65,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benrisma133&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="48%" />
+  
+  <img src="https://img.shields.io/badge/Main_Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
   
   </br>
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=benrisma133&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
