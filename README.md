@@ -66,9 +66,7 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/Main_Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-  
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=benrisma133&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   </br>
   <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=benrisma133&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
