@@ -21,6 +21,13 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
