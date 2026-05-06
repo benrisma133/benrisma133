@@ -44,6 +44,8 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -76,6 +78,22 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
 `C#` `MySQL`
 
 ---
+
+### 🧮 [CalcSharp](https://github.com/benrisma133/CalcSharp)
+> Simple WPF Calculator with a full CI/CD pipeline — automated build, xUnit tests and artifact publishing.
+
+`C#` `WPF` `.NET 8` `xUnit` `GitHub Actions`
+
+![CI](https://github.com/benrisma133/CalcSharp/actions/workflows/ci.yml/badge.svg)
+
+---
+
+### 👥 [ManageClient](https://github.com/benrisma133/ManageClient)
+> WPF Client Management app built with 3-Tier Architecture, SQLite database, unit tests and CI/CD pipeline.
+
+`C#` `WPF` `.NET 8` `SQLite` `xUnit` `GitHub Actions`
+
+![CI](https://github.com/benrisma133/ManageClient/actions/workflows/ci.yml/badge.svg)
 
 ## 📊 GitHub Stats
 
