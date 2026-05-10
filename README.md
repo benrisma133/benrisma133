@@ -104,7 +104,7 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=benrisma133&theme=tokyonight" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=benrisma133&theme=dark" width="55%"/>
 </p> 
 
 ---
@@ -112,7 +112,7 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benrisma133&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benrisma133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
