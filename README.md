@@ -112,7 +112,7 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benrisma133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benrisma133&theme=dark&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
