@@ -104,7 +104,7 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=benrisma133&theme=dark" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=benrisma133&theme=light" width="55%"/>
 </p> 
 
 ---
