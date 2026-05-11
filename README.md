@@ -107,6 +107,10 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
   <img src="https://streak-stats.demolab.com?user=benrisma133&theme=light" width="55%"/>
 </p> 
 
+<p align="center">
+  <img src="https://github.com/benrisma133/benrisma133/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 ---
 
 ## 🏆 Trophies
