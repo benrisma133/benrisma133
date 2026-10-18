@@ -111,13 +111,6 @@ I'm a **Full-Stack .NET Developer** focused on building reliable, well-structure
   <img src="https://github.com/benrisma133/benrisma133/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benrisma133&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&v99" />
-</div>
 
 ---
 
